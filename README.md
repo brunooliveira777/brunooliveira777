@@ -1,0 +1,4 @@
+- 👋 olá, meu nome é @brunooliveira777
+-  :+1: meu email de contato é b.santos29@escola.pr.gov.br
+- 👀 eu estou interessado em aprender a programar novas linguagens.
+- 🌱 estou aprendendo a programar recentemente a linguagen de javaScript e Scratch
